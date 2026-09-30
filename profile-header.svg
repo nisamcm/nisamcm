@@ -1,28 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
   <title id="title">Muhammed Nisam - Software Developer</title>
-  <desc id="description">A charcoal portfolio header introducing a React developer and featuring the Helix AI project.</desc>
-  <rect width="1200" height="390" fill="#171614" />
-  <path d="M0 1H1200M0 389H1200" stroke="#393632" />
-  <path d="M768 64V327" stroke="#393632" />
-  <text x="64" y="50" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4" fill="#eee8df">MUHAMMED NISAM <tspan fill="#77716a">/ PROFILE</tspan></text>
-  <circle cx="1000" cy="45" r="4" fill="#ef8b5e" />
-  <text x="1014" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#c9c1b7">OPEN TO REACT ROLES</text>
-  <text x="64" y="151" font-family="Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="0" fill="#f4f0e9">SOFTWARE</text>
-  <text x="64" y="229" font-family="Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="0" fill="#ef8b5e">DEVELOPER</text>
-  <text x="68" y="271" font-family="Arial, sans-serif" font-size="18" fill="#c9c1b7">React interfaces. Thoughtful products. Growing across the MERN stack.</text>
-  <path d="M64 307H722" stroke="#393632" />
-  <text x="64" y="342" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#8d867d">FOCUS</text>
-  <text x="64" y="365" font-family="Arial, sans-serif" font-size="15" fill="#eee8df">REACT / FRONTEND</text>
-  <text x="323" y="342" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#8d867d">DIRECTION</text>
-  <text x="323" y="365" font-family="Arial, sans-serif" font-size="15" fill="#eee8df">MERN STACK</text>
-  <text x="614" y="342" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#8d867d">CURRENT BUILD</text>
-  <text x="614" y="365" font-family="Arial, sans-serif" font-size="15" fill="#eee8df">HELIX AI</text>
-  <text x="813" y="93" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#8d867d">SELECTED PROJECT <tspan fill="#ef8b5e">/ 01</tspan></text>
-  <path d="M813 112H1137" stroke="#393632" />
-  <path d="M813 112V299" stroke="#ef8b5e" stroke-width="2" />
-  <text x="840" y="178" font-family="Arial, sans-serif" font-size="43" font-weight="700" fill="#f4f0e9">Helix AI</text>
-  <text x="842" y="207" font-family="Arial, sans-serif" font-size="14" fill="#c9c1b7">A multi-model AI assistant</text>
-  <text x="842" y="231" font-family="Arial, sans-serif" font-size="12" fill="#8d867d">REACT + VITE / POLLINATIONS AI</text>
-  <path d="M842 265H1100M842 277H1046M842 289H1082" stroke="#393632" stroke-width="3" />
-  <path d="M1109 261l18 18m0-18-18 18" stroke="#ef8b5e" stroke-width="2" stroke-linecap="round" />
+  <desc id="description">VS Code-inspired profile header with role, location, MERN stack, and availability details.</desc>
+  <rect width="1200" height="360" fill="#181818" />
+  <rect x="12" y="12" width="1176" height="336" rx="10" fill="#1e1e1e" stroke="#333333" />
+  <path d="M12 53H1188" stroke="#333333" />
+  <circle cx="34" cy="32" r="5" fill="#ff5f56" />
+  <circle cx="52" cy="32" r="5" fill="#ffbd2e" />
+  <circle cx="70" cy="32" r="5" fill="#27c93f" />
+  <rect x="94" y="19" width="157" height="27" rx="3" fill="#252526" stroke="#333333" />
+  <text x="108" y="37" font-family="monospace" font-size="12" fill="#6a9955">/// About Me</text>
+  <circle cx="1125" cy="32" r="4" fill="#4ec9b0" />
+  <text x="1138" y="36" font-family="monospace" font-size="11" fill="#4ec9b0">LIVE</text>
+  <text x="48" y="111" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#ffffff">Muhammed Nisam</text>
+  <circle cx="345" cy="99" r="10" fill="#007acc" />
+  <path d="M340 99l4 4 7-8" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="48" y="151" font-family="monospace" font-size="17" fill="#cccccc"><tspan fill="#c586c0">const</tspan> <tspan fill="#dcdcaa">role</tspan> = <tspan fill="#ce9178">&quot;</tspan><tspan fill="#9cdcfe">Software Developer</tspan><tspan fill="#ce9178">&quot;</tspan></text>
+  <text x="48" y="180" font-family="monospace" font-size="13" fill="#4ec9b0">pin_drop</text>
+  <text x="120" y="180" font-family="Arial, sans-serif" font-size="14" fill="#cccccc">Kozhikode  <tspan fill="#5a5a5a">&#8226;</tspan>  Kerala  <tspan fill="#5a5a5a">&#8226;</tspan>  India</text>
+  <text x="48" y="221" font-family="Arial, sans-serif" font-size="16" fill="#a0a0a0">A software engineer crafting scalable MERN web applications, resilient client systems,</text>
+  <text x="48" y="245" font-family="Arial, sans-serif" font-size="16" fill="#a0a0a0">and high-conversion digital experiences.</text>
+  <path d="M710 76V321" stroke="#333333" />
+  <text x="746" y="103" font-family="monospace" font-size="12" fill="#6a9955">// AVAILABLE FOR OPPORTUNITIES</text>
+  <rect x="746" y="130" width="392" height="52" rx="5" fill="#252526" stroke="#333333" />
+  <text x="760" y="161" font-family="monospace" font-size="11" fill="#6a9955">&lt;status&gt;</text>
+  <text x="834" y="161" font-family="Arial, sans-serif" font-size="13" fill="#dcdcaa">Building Scalable Systems</text>
+  <text x="1028" y="161" font-family="monospace" font-size="11" fill="#6a9955">&lt;/status&gt;</text>
+  <rect x="746" y="195" width="392" height="52" rx="5" fill="#252526" stroke="#333333" />
+  <text x="760" y="226" font-family="monospace" font-size="12" fill="#4ec9b0">Stack:</text>
+  <text x="813" y="226" font-family="monospace" font-size="12" font-weight="700" fill="#ffffff">MERN STACK</text>
+  <path d="M746 282H1138" stroke="#333333" />
+  <text x="746" y="308" font-family="monospace" font-size="12" fill="#858585">~/nisamcm/profile</text>
+  <rect x="1091" y="294" width="2" height="18" fill="#3794ff" />
 </svg>
