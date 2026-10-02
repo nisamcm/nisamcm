@@ -6,18 +6,6 @@
 
 <img src="assets/connect-row.png" width="100%" alt="Available for Opportunities — WhatsApp, Facebook, Instagram, LinkedIn, Website, Email, X" />
 
-<p align="center">
-<sub>
-<a href="https://api.whatsapp.com/send?phone=919645759265">WhatsApp</a> ·
-<a href="https://www.facebook.com/muhammednisamcm/">Facebook</a> ·
-<a href="https://www.instagram.com/ni.s.a.m/">Instagram</a> ·
-<a href="https://linkedin.com/in/muhammed-nisam-">LinkedIn</a> ·
-<a href="https://nisamcm.netlify.app">Website</a> ·
-<a href="mailto:nisamcmapple@gmail.com">Email</a> ·
-<a href="https://x.com">X</a>
-</sub>
-</p>
-
 <br/>
 
 <img src="assets/experience.png" width="100%" alt="Experience — Cyber Square AI & Robotics Pvt. Ltd., Software Engineer Trainee, Jan 2025 – Jul 2025; Carolina Canovic Information Technology L.L.C (ActLocal), Web Developer Remote, Jan 2024 – Jun 2024" />
