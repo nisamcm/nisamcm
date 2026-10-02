@@ -4,16 +4,18 @@
 
 <br/>
 
+<img src="assets/connect-row.png" width="100%" alt="Available for Opportunities — WhatsApp, Facebook, Instagram, LinkedIn, Website, Email, X" />
+
 <p align="center">
-<img src="assets/available.png" height="32" alt="Available for Opportunities" />
-&nbsp;&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send?phone=919645759265"><img src="assets/icon-whatsapp.png" height="32" alt="WhatsApp" /></a>
-<a href="https://www.facebook.com/muhammednisamcm/"><img src="assets/icon-facebook.png" height="32" alt="Facebook" /></a>
-<a href="https://www.instagram.com/ni.s.a.m/"><img src="assets/icon-instagram.png" height="32" alt="Instagram" /></a>
-<a href="https://linkedin.com/in/muhammed-nisam-"><img src="assets/icon-linkedin.png" height="32" alt="LinkedIn" /></a>
-<a href="https://nisamcm.netlify.app"><img src="assets/icon-website.png" height="32" alt="Website" /></a>
-<a href="mailto:nisamcmapple@gmail.com"><img src="assets/icon-email.png" height="32" alt="Email" /></a>
-<a href="https://x.com"><img src="assets/icon-x.png" height="32" alt="X" /></a>
+<sub>
+<a href="https://api.whatsapp.com/send?phone=919645759265">WhatsApp</a> ·
+<a href="https://www.facebook.com/muhammednisamcm/">Facebook</a> ·
+<a href="https://www.instagram.com/ni.s.a.m/">Instagram</a> ·
+<a href="https://linkedin.com/in/muhammed-nisam-">LinkedIn</a> ·
+<a href="https://nisamcm.netlify.app">Website</a> ·
+<a href="mailto:nisamcmapple@gmail.com">Email</a> ·
+<a href="https://x.com">X</a>
+</sub>
 </p>
 
 <br/>
