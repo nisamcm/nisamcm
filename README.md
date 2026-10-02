@@ -4,22 +4,17 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td align="left" width="55%">
-<img src="assets/available.png" height="36" alt="Available for Opportunities" />
-</td>
-<td align="right">
-<a href="https://api.whatsapp.com/send?phone=919645759265"><img src="assets/icon-whatsapp.png" height="36" alt="WhatsApp" /></a>&nbsp;
-<a href="https://www.facebook.com/muhammednisamcm/"><img src="assets/icon-facebook.png" height="36" alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/ni.s.a.m/"><img src="assets/icon-instagram.png" height="36" alt="Instagram" /></a>&nbsp;
-<a href="https://linkedin.com/in/muhammed-nisam-"><img src="assets/icon-linkedin.png" height="36" alt="LinkedIn" /></a>&nbsp;
-<a href="https://nisamcm.netlify.app"><img src="assets/icon-website.png" height="36" alt="Website" /></a>&nbsp;
-<a href="mailto:nisamcmapple@gmail.com"><img src="assets/icon-email.png" height="36" alt="Email" /></a>&nbsp;
-<a href="https://x.com"><img src="assets/icon-x.png" height="36" alt="X" /></a>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="assets/available.png" height="32" alt="Available for Opportunities" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://api.whatsapp.com/send?phone=919645759265"><img src="assets/icon-whatsapp.png" height="32" alt="WhatsApp" /></a>
+<a href="https://www.facebook.com/muhammednisamcm/"><img src="assets/icon-facebook.png" height="32" alt="Facebook" /></a>
+<a href="https://www.instagram.com/ni.s.a.m/"><img src="assets/icon-instagram.png" height="32" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/muhammed-nisam-"><img src="assets/icon-linkedin.png" height="32" alt="LinkedIn" /></a>
+<a href="https://nisamcm.netlify.app"><img src="assets/icon-website.png" height="32" alt="Website" /></a>
+<a href="mailto:nisamcmapple@gmail.com"><img src="assets/icon-email.png" height="32" alt="Email" /></a>
+<a href="https://x.com"><img src="assets/icon-x.png" height="32" alt="X" /></a>
+</p>
 
 <br/>
 
